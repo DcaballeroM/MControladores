@@ -7,6 +7,7 @@ void mostrarBinario4bits(int numero) {
     printf("\n");
 }
 
+//Hola probando
 void tablaDeVerdad(int numero) {
     int bits = 16; // siempre 16 combinaciones para 4 entradas
 
