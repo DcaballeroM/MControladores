@@ -1,5 +1,6 @@
-//1. RAIZ DE UN NUMERO POSITIVO USANDO EL METODO DE NEWTON
-#include <stdio.h>
+ //1. RAIZ DE UN NUMERO POSITIVO USANDO EL METODO DE NEWTON
+
+ #include <stdio.h>
     
     double raiznewton (double numero)
     {
